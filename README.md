@@ -17,15 +17,18 @@ A simple RESTful API for a blog application built with Flask, SQLAlchemy, and SQ
 1. Clone the Repo:
     ```bash
     git clone https://github.com/Nyok17/blog_rest_api17.git
-    project url https://roadmap.sh/projects/blogging-platform-api
     ```
+2. Roadmap project url:
+   ```bash
+   https://roadmap.sh/projects/blogging-platform-api
+   ```
 
-2. Install dependencies:
+3. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the API:
+4. Run the API:
     ```bash
     python app.py
     ```
